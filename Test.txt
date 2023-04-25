@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 asdf
+=======
+asdfadsfkljadsflkasdjflads
+fa sd
+fasd
+ f
+asdf 
+asd
+f ads
+f 
+>>>>>>> 7647e6e0753e129a19b1fb4f3d6782d6d9b8383c
