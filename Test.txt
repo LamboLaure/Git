@@ -10,3 +10,5 @@ asd
 f ads
 f 
 >>>>>>> 7647e6e0753e129a19b1fb4f3d6782d6d9b8383c
+
+https://login.microsoftonline.com,"philipp.immler@hak-reutte.ac.at","u53hUu8H20",,"https://login.microsoftonline.com","{4d8c963b-a619-47bf-b4c0-52a7b90345e9}","1604473497731","1664431477847","1604473497731"
